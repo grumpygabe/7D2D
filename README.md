@@ -5,6 +5,7 @@ This is a directory of the stuff I've put together for 7 Days to Die.  They most
 * [Old Grumpy County](https://github.com/grumpygabe/DF-GrumpyMap) is a 6k map pack for Darkness Falls.  It is relatively small and dense, with limited starting locations for small group play and some interesting topography/roads.
 * [CoronaWipes](https://github.com/grumpygabe/DF-CoronaWipes) is a silly mod I was inspired to make by the billboards you can find in vanilla.  It adds some really bad healing items and also twinkies as an apology.
 * [DF-FertilizerFix](https://github.com/grumpygabe/DF-FertilizerFix/tree/main) is a simple fix to make fertilizer work (more?) correctly in Darkness Falls.
+* [DF-HeadshotsMostly](https://github.com/grumpygabe/DF-HeadshotsMostly/tree/main) lets you configure a less binary "HeadshotsOnly" mode.
 
 I've also put together two compatibility patches for mods we love to use with Darkness Falls:
 
