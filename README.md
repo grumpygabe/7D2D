@@ -2,6 +2,7 @@
 
 This is a directory of the stuff I've put together for 7 Days to Die.  They mostly require Khaine's fantastic [Darkness Falls](https://gitlab.com/KhaineGB/darkness-falls-a20/-/tree/main) mod.
 
+* [Grumpyville](https://github.com/grumpygabe/DF-Grumpyville) is a 6k map featuring a giant city for Darkness Falls. It features limited starting locations for facilitate groups.
 * [Old Grumpy County](https://github.com/grumpygabe/DF-GrumpyMap) is a 6k map pack for Darkness Falls.  It is relatively small and dense, with limited starting locations for small group play and some interesting topography/roads.
 * [CoronaWipes](https://github.com/grumpygabe/DF-CoronaWipes) is a silly mod I was inspired to make by the billboards you can find in vanilla.  It adds some really bad healing items and also twinkies as an apology.
 * [DF-FertilizerFix](https://github.com/grumpygabe/DF-FertilizerFix/tree/main) is a simple fix to make fertilizer work (more?) correctly in Darkness Falls.
